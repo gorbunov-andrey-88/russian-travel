@@ -20,3 +20,6 @@
 - Footer
 
 Используемые технологии: HTML, CSS. Структура классов и папок сделана по методологии БЭМ
+
+Ссылка на проект:
+https://gorbunov-andrey-88.github.io/russian-travel/
