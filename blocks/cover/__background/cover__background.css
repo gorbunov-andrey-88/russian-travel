@@ -18,7 +18,11 @@
   transition: 0.5s;
 }
 
-@media (max-width: 1287px) {
+.cover__background:hover::before {
+  background-color: rgba(42, 44, 47, 0.8);
+}
+
+@media (max-width: 1279px) {
   .cover__background {
     padding: 195px 0;
   }
