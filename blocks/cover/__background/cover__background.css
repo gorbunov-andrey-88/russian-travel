@@ -1,4 +1,5 @@
 .cover__background {
+  display: block;
   background-image: url(../../../images/cover-trains.jpg);
   background-position: center;
   background-size: cover;
