@@ -5,6 +5,7 @@
   background-size: cover;
   width: 100%;
   padding: 245px 0;
+  text-decoration: none;
 }
 
 .cover__background::before {
